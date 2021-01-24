@@ -14,3 +14,20 @@
     * Include a setUp() method with appropriate code
     
 4. Upload app.py and tests.py to new GitHub repo
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+##Task Two
+
+1. Create a Selenium script that performs Functional tests on the front-end of an application
+
+2. Must include:
+
+setUp and tearDown() methods
+* At least 1 test per route/URL endpoint
+* At least 2 different Unit Test assertions e.g. AssertIn and AssertEquals
+
+4. Upload selenium_script.py alongside application code to GitHub (ensure you include an updated requirements.txt file)
+
+ 
+
+ 
