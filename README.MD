@@ -19,7 +19,8 @@
 ## Task Two
 
 1. Create a Selenium script that performs Functional tests on the front-end of an application
-
+  * Selenium script can be found in 'Task 2' as: selenium_test.py
+  
 
 2. Must include:
 
